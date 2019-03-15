@@ -1,6 +1,11 @@
 Logitech Gaming Lcd SDK
 Copyright (C) 2013 Logitech Inc. All Rights Reserved
 
+--------------------------------------------------------------------------
+Project fork by @Ayanami251379 to implement a VB code base.
+Original project: https://github.com/DY357LX/Logitech-G15-SDK
+--------------------------------------------------------------------------
+
 
 Introduction
 --------------------------------------------------------------------------
